@@ -1,4 +1,4 @@
-from flask import Flas, render_template,jsonify,request
+from flask import Flask, render_template,jsonify,request
 import numpy as np
 from joblib import load
 import os
